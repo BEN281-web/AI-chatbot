@@ -17,37 +17,5 @@ Change:
 - Model name
 
 ## Live Deployment
-Frontend: <link>
-Backend: <link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Updated for PR submission
+Frontend: https://ai-chatbot-tau-five-31.vercel.app
+Backend: https://ai-chatbot-1-yg3z.onrender.com
