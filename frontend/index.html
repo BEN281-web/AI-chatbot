@@ -25,7 +25,7 @@ async function sendMessage() {
 
   document.getElementById("chat").innerHTML += `<p><b>You:</b> ${text}</p>`;
 
-  const res = await fetch("http://localhost:3000/chat", {
+  const res = await fetch("https://ai-chatbot-1-yg3z.onrender.com/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ messages })
